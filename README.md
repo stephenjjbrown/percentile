@@ -1,5 +1,5 @@
 # Percentile
-A simple percentile function for JavaScript (or TypeScript) with linear interpolation, taking O(1) time. This is basically an implemetation of the [C = 1 algorithm here](https://en.wikipedia.org/wiki/Percentile)—the same one used by Excel via the PERCENTILE or PERCENTILE.INC formula functions.
+A simple percentile function for JavaScript (or TypeScript) with linear interpolation, taking O(1) time. This is basically an implementation of the [C = 1 algorithm here](https://en.wikipedia.org/wiki/Percentile)—the same one used by Excel via the PERCENTILE or PERCENTILE.INC formula functions.
 
 ## Example
 ```javascript
