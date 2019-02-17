@@ -1,10 +1,14 @@
 {
-  "name": "percentile",
+  "name": "percentile-js",
   "version": "1.0.0",
-  "description": "A basic percentile function with interpolation",
+  "description": "A basic percentile function with linear interpolation",
   "main": "dist/main.js",
   "directories": {
     "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenjjbrown/percentile.git"
   },
   "dependencies": {
     "typescript": "^3.3.3"
@@ -14,5 +18,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stephen Brown",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenjjbrown/percentile/issues"
+  },
+  "homepage": "https://github.com/stephenjjbrown/percentile#readme"
 }
